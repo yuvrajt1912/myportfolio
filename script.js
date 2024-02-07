@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function () {
         marqueeWrapper.style.animationPlayState = 'paused';
         setTimeout(() => {
             marqueeWrapper.style.animationPlayState = 'running';
-        }, 5000); // Adjust the delay as needed (in milliseconds)
+        }, 5000); //(in milliseconds)
     }
 
     function showProjects(category) {
