@@ -67,7 +67,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #ff6c03; /* Change color on hover */
+    color: #ff6c03;
 }
 
 section {
@@ -77,19 +77,19 @@ section {
 #projects,
 #certifications,
 #contact {
-    background-color: #8a8a8a00; /* Change section background color */
+    background-color: #8a8a8a00; 
     border-radius: 15px;
     margin-top: 20px;
 }
 
 .project-tile,
 .certificate-tile {
-    background-color: #21212100; /* Change tile background color */
+    background-color: #21212100; 
     border: 1px solid #dddddd00;
     border-radius: 8px;
     overflow: hidden;
     transition: transform 0.3s ease-in-out;
-    box-shadow: 0 2px 4px rgb(71, 71, 71); /* Add shadow effect */
+    box-shadow: 0 2px 4px rgb(71, 71, 71); 
 }
 
 .project-tile:hover,
@@ -109,14 +109,14 @@ section {
 .certificate-tile p,
 .project-tile a,
 .certificate-tile a {
-    color: #ffffff; /* Change text color */
+    color: #ffffff; 
 }
 
 .social-links a {
     display: inline-block;
     margin: 0 10px;
     padding: 8px 15px;
-    background-color: #eeeeee00; /* Change link background color */
+    background-color: #eeeeee00; 
     color: #ffffff;
     text-decoration: none;
     border-radius: 5px;
@@ -124,7 +124,7 @@ section {
 }
 
 .social-links a:hover {
-    background-color: #7e7575; /* Change link background color on hover */
+    background-color: #7e7575; 
 }
 
 #certifications {
@@ -168,11 +168,11 @@ section {
 
 .marquee-item:hover {
     transform: scale(1.1);
-    animation-play-state: paused; /* Pause animation on hover */
+    animation-play-state: paused; 
 }
 
 .project-tile {
-    box-shadow: 0 2px 4px rgba(93, 46, 46, 0); /* Add shadow effect */
+    box-shadow: 0 2px 4px rgba(93, 46, 46, 0); 
 }
 
 #projects {
